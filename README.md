@@ -8,7 +8,10 @@ This project involves an in-depth analysis of transactional data from Maven Mega
 ## Data Source
 The dataset was provided as part of a mid-course project from Maven Analytics and consists of two files:
 - `project_transactions.csv`: Contains detailed transaction records.
+- Google Drive : https://drive.google.com/file/d/1L7eaPrnP9fr_eCZAOrKfhowrzl4-3ouX/view?usp=drivesdk
 - `product.csv`: Contains product metadata.
+- Google Drive :
+https://drive.google.com/file/d/1Fs94Y9oZjtOg9hedOxC_9eKof97dDp4D/view?usp=drivesdk
 
 ---
 
